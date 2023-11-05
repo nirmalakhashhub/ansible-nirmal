@@ -1,6 +1,6 @@
 automerge: false
 collection_redirect: false
-notifications: false
+notifications: true
 files:
   $module_utils/csharp: &id001
     labels: windows
